@@ -1,3 +1,4 @@
-﻿
+﻿Console.ForegroundColor = ConsoleColor.Green;
+Console.WriteLine("--> Printing green");
 
-Console.WriteLine("Hello, World!");
+Console.ResetColor();
